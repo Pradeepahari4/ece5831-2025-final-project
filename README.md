@@ -106,10 +106,6 @@ This script integrates the trained model with a live webcam feed.
   - Driver state (AWAKE / DROWSY)
   - FPS display
   - 
-## Running the Real-Time Demo
-
-### Install Dependencies
-```bash
 pip install tensorflow opencv-python numpy simpleaudio tqdm
 
 ## 🔗 Project Links
@@ -122,4 +118,10 @@ pip install tensorflow opencv-python numpy simpleaudio tqdm
 
 - **Google Drive (Project Files & Resources):**  
   https://drive.google.com/drive/u/1/folders/1W7izULOJvaqRENbOU9sPPKe3HjoR28P3
+
+
+### Install Dependencies
+```bash
+pip install tensorflow opencv-python numpy simpleaudio tqdm
+
 
