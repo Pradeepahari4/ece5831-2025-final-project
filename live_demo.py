@@ -7,10 +7,6 @@ Usage:
   python live_demo.py --model_path mobilenet_model.h5
   python live_demo.py --model_path custom_cnn.h5 --threshold 0.5 --consec 15 --camera 0
 
-Requirements:
-  pip install tensorflow opencv-python numpy simpleaudio tqdm
-
-If simpleaudio isn't installed, the script still runs but will not play sound (it will print instead).
 """
 import argparse
 import time
@@ -255,9 +251,8 @@ def live_demo(model_path,
     cap.release()
     cv2.destroyAllWindows()
 
-# -------------------------
 # CLI
-# -------------------------
+
 def parse_args():
     p = argparse.ArgumentParser(description="Live drowsiness demo (Haar cascades + Keras model)")
     p.add_argument('--model_path', required=True, help='Path to Keras model (.h5)')
