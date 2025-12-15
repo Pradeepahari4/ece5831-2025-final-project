@@ -116,7 +116,7 @@ pip install tensorflow opencv-python numpy simpleaudio tqdm
 - **Pre-recorded Presentation:**  
   https://drive.google.com/file/d/1WRvLIiarNU7grCFw4rYefb6TwxcnmXyG/view
 
-- **Google Drive (Project Files & Resources):**  
+- **Google Drive (Project Report, Presentation, Dataset):**  
   https://drive.google.com/drive/u/1/folders/1W7izULOJvaqRENbOU9sPPKe3HjoR28P3
 
 
