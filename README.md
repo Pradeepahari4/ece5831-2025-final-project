@@ -105,8 +105,7 @@ This script integrates the trained model with a live webcam feed.
   - Eye probabilities
   - Driver state (AWAKE / DROWSY)
   - FPS display
-  - 
-pip install tensorflow opencv-python numpy simpleaudio tqdm
+  
 
 ## 🔗 Project Links
 
