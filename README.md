@@ -112,7 +112,14 @@ This script integrates the trained model with a live webcam feed.
 ```bash
 pip install tensorflow opencv-python numpy simpleaudio tqdm
 
-## Links to youtube demo video, pre-recorded presentation, google drive
-youtube - https://www.youtube.com/watch?v=Y35h7drmuGY
-pre-recorded presentation - https://drive.google.com/file/d/1WRvLIiarNU7grCFw4rYefb6TwxcnmXyG/view
-google drive - https://drive.google.com/drive/u/1/folders/1W7izULOJvaqRENbOU9sPPKe3HjoR28P3
+## 🔗 Project Links
+
+- **YouTube Demo Video:**  
+  https://www.youtube.com/watch?v=Y35h7drmuGY
+
+- **Pre-recorded Presentation:**  
+  https://drive.google.com/file/d/1WRvLIiarNU7grCFw4rYefb6TwxcnmXyG/view
+
+- **Google Drive (Project Files & Resources):**  
+  https://drive.google.com/drive/u/1/folders/1W7izULOJvaqRENbOU9sPPKe3HjoR28P3
+
