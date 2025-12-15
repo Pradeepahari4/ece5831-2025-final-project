@@ -1,7 +1,8 @@
-# -ece5831-2024-final-project
+# ece5831-2024-final-project
 # Driver Drowsiness Detection System 
 This repository contains the implementation and documentation for a **real-time Driver Drowsiness Detection System** developed as part of **ECE 5831: Pattern Recognition & Neural Networks**.  
 The system uses **computer vision and deep learning** to detect prolonged eye closure and alert the driver in real time.
+
 ## Project Overview
 
 Driver drowsiness is a major contributor to road accidents, especially during long-distance and night-time driving. Traditional physiological methods such as EEG or EOG are intrusive and impractical for real-world use.  
@@ -110,3 +111,8 @@ This script integrates the trained model with a live webcam feed.
 ### Install Dependencies
 ```bash
 pip install tensorflow opencv-python numpy simpleaudio tqdm
+
+## Links to youtube demo video, pre-recorded presentation, google drive
+youtube - https://www.youtube.com/watch?v=Y35h7drmuGY
+pre-recorded presentation - https://drive.google.com/file/d/1WRvLIiarNU7grCFw4rYefb6TwxcnmXyG/view
+google drive - https://drive.google.com/drive/u/1/folders/1W7izULOJvaqRENbOU9sPPKe3HjoR28P3
